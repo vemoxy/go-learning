@@ -3,8 +3,11 @@ Chick goes for dance on Thursdays and Sundays, and cannot go on a date.
 Kitty has class on Wednesdays and Thursdays, and cannot go on a date.
 Write a function that returns whether Kitty and Chick are both available to go on a date <3
 Assume that `weekday` is an integer representing the weekday, with 1 being Monday, 2 being Tuesday, and so on, till 7 meaning Sunday.
+
+There is a way to use only 1 line to get the answer in the function block. Try figuring it out!
 */
 bool can_date(int weekday) {
+	// Your answer here
 	return false;
 }
 
